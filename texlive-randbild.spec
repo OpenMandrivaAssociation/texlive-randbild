@@ -1,6 +1,6 @@
 Name:		texlive-randbild
 Version:	15878
-Release:	1
+Release:	2
 Summary:	Marginal pictures
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/randbild
