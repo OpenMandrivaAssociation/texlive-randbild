@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Marginal pictures
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/randbild
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/randbild
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/randbild.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/randbild.doc.r%{version}.tar.xz
